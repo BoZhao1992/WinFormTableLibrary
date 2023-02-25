@@ -21,3 +21,8 @@ WinFormTableLibrary是一个基于DataGridView表格控件封装的可定制化�
 样式二：带有容器的表格
 
 ![image](https://user-images.githubusercontent.com/39947744/221333877-44bb7938-3d70-4d8d-9262-020fd6b1be8f.png)
+
+数据保存在XML文件中
+
+![image](https://user-images.githubusercontent.com/39947744/221334417-2444d632-e6ac-433d-b8a0-9325050823db.png)
+
